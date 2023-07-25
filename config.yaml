@@ -1,0 +1,5 @@
+baseUrl: "http://sample.com:8200"
+unsealInterval: 30
+sealedKeys:
+  - "e48a76f56e2f4ce416c6bc05e9cae15df211fe1a27d2be07838428ea2ffd271985"
+  - "fc9d7142c0a5583d6f16a3fad8140107e75d6525c327fbf1558187e91cd4a0519a"
